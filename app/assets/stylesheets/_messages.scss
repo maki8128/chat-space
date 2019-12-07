@@ -19,13 +19,12 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fiel
 
 /* サイド */
 .chat-side {
-  &{
-    float: left;
-    height: 100%;
-    width: 300px;
-    color: white;
-  }
-  & a {
+  float: left;
+  height: 100%;
+  width: 300px;
+  color: white;
+  
+   a {
     color: white;
   }
 }
